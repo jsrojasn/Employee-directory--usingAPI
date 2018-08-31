@@ -71,6 +71,7 @@ $.ajax({
                         modal.style.display = "none";
                     }
                 }
+                
             
             }
         }
